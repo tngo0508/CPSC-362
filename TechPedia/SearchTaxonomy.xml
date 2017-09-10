@@ -1,0 +1,15 @@
+<items>
+    <electronic>
+        <tv>            
+            <lg/>
+            <sony/>
+            <samsung/>
+            <vizio/>
+        </tv>
+        <laptop>
+            <dell/>
+            <hp/>
+            <apple/>
+        </laptop>        
+    </electronic>
+</items>
