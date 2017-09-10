@@ -1,0 +1,33 @@
+<inventory>
+  <electronic>
+    <tv>
+      <samsung>
+        <item itemid = "101" name="Samsung - QLed" description="Unlock perfect color with 100% color volumne." quantity="100" price="1000"/>
+        <item itemid = "102" name="Samsung - Lifestyle TV" description="Innovative design adds style to any living space." quantity="100" price="1000"/>
+        <item itemid = "103" name="Samsung - Premium UHD" description="Discover authentic color and contrast." quantity="100" price="1000"/>
+        <item itemid = "104" name="Samsung - UHD" description="See the difference 4k resolution makes." quantity="100" price="1000"/>
+      </samsung>      
+      <sony>
+        <item itemid = "201" name="Sony - LED" description="Unlock perfect color with 100% color volumne." quantity="100" price="1000"/>
+        <item itemid = "202" name="Sony - OLED" description="Innovative design adds style to any living space." quantity="100" price="1000"/>
+        <item itemid = "203" name="Sony - Premium UHD" description="Discover authentic color and contrast." quantity="100" price="1000"/>
+        <item itemid = "204" name="Sony - UHD" description="See the difference 4k resolution makes." quantity="100" price="1000"/>        
+      </sony>
+      <lg>
+        <item itemid = "301" name="LG - LED" description="Unlock perfect color with 100% color volumne." quantity="100" price="1000"/>
+        <item itemid = "302" name="LG - OLED" description="Innovative design adds style to any living space." quantity="100" price="1000"/>
+        <item itemid = "303" name="LG - Premium UHD" description="Discover authentic color and contrast." quantity="100" price="1000"/>
+        <item itemid = "304" name="LG - UHD" description="See the difference 4k resolution makes." quantity="100" price="1000"/>                
+      </lg>      
+      <vizio>
+        <item itemid = "401" name="VIZIO - LED" description="Unlock perfect color with 100% color volumne." quantity="100" price="1000"/>
+        <item itemid = "402" name="VIZIO - OLED" description="Innovative design adds style to any living space." quantity="100" price="1000"/>
+        <item itemid = "403" name="VIZIO - Premium UHD" description="Discover authentic color and contrast." quantity="100" price="1000"/>
+        <item itemid = "404" name="VIZIO - UHD" description="See the difference 4k resolution makes." quantity="100" price="1000"/>
+      </vizio>
+    </tv>
+    <laptop>
+      
+    </laptop>
+  </electronic>
+</inventory>

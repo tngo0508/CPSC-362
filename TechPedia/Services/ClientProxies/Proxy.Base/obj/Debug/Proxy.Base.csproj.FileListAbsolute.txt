@@ -1,0 +1,7 @@
+c:\C323\TechPedia\Proxy.Base\bin\Debug\Proxy.Base.dll
+c:\C323\TechPedia\Proxy.Base\bin\Debug\Proxy.Base.pdb
+c:\C323\TechPedia\Proxy.Base\bin\Debug\App.TechPedia.Common.dll
+c:\C323\TechPedia\Proxy.Base\bin\Debug\App.TechPedia.Common.pdb
+c:\C323\TechPedia\Proxy.Base\obj\Debug\Proxy.Base.csprojResolveAssemblyReference.cache
+c:\C323\TechPedia\Proxy.Base\obj\Debug\Proxy.Base.dll
+c:\C323\TechPedia\Proxy.Base\obj\Debug\Proxy.Base.pdb

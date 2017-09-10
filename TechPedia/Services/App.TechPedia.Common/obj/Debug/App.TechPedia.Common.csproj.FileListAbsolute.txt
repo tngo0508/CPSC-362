@@ -1,0 +1,10 @@
+c:\C323\TechPedia\App.TechPedia.Common\bin\Debug\App.TechPedia.Common.dll
+c:\C323\TechPedia\App.TechPedia.Common\bin\Debug\App.TechPedia.Common.pdb
+c:\C323\TechPedia\App.TechPedia.Common\obj\Debug\App.TechPedia.Common.dll
+c:\C323\TechPedia\App.TechPedia.Common\obj\Debug\App.TechPedia.Common.pdb
+C:\Users\Thomas\Downloads\TechPedia-20170906T232926Z-001\TechPedia\Services\App.TechPedia.Common\bin\Debug\App.TechPedia.Common.dll
+C:\Users\Thomas\Downloads\TechPedia-20170906T232926Z-001\TechPedia\Services\App.TechPedia.Common\bin\Debug\App.TechPedia.Common.pdb
+C:\Users\Thomas\Downloads\TechPedia-20170906T232926Z-001\TechPedia\Services\App.TechPedia.Common\obj\Debug\App.TechPedia.Common.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Downloads\TechPedia-20170906T232926Z-001\TechPedia\Services\App.TechPedia.Common\obj\Debug\App.TechPedia.Common.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\TechPedia-20170906T232926Z-001\TechPedia\Services\App.TechPedia.Common\obj\Debug\App.TechPedia.Common.dll
+C:\Users\Thomas\Downloads\TechPedia-20170906T232926Z-001\TechPedia\Services\App.TechPedia.Common\obj\Debug\App.TechPedia.Common.pdb

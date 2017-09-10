@@ -1,0 +1,7 @@
+c:\C323\TechPedia\Demo.Amazon\bin\Debug\Demo.Amazon.dll
+c:\C323\TechPedia\Demo.Amazon\bin\Debug\Demo.Amazon.pdb
+c:\C323\TechPedia\Demo.Amazon\bin\Debug\App.TechPedia.Common.dll
+c:\C323\TechPedia\Demo.Amazon\bin\Debug\App.TechPedia.Common.pdb
+c:\C323\TechPedia\Demo.Amazon\obj\Debug\Demo.Amazon.csprojResolveAssemblyReference.cache
+c:\C323\TechPedia\Demo.Amazon\obj\Debug\Demo.Amazon.dll
+c:\C323\TechPedia\Demo.Amazon\obj\Debug\Demo.Amazon.pdb

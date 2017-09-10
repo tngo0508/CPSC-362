@@ -1,0 +1,2 @@
+c:\C323\TechPedia\TechPedia\bin\Debug\TechPedia.exe.config
+c:\C323\TechPedia\TechPedia\bin\Debug\App.TechPedia.exe.config
